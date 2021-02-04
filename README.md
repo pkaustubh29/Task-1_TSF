@@ -10,4 +10,4 @@ In this internship, we were provided a total of 6 Tasks and I was able to succes
  Task-1 : Prediction using Supervised ML
  
  
- Task-2 : Prediction using Unsupervised ML
+ 
