@@ -8,4 +8,6 @@ This repository contains the tasks that I completed while working as an intern f
 In this internship, we were provided a total of 6 Tasks and I was able to successfully complete all the 6 tasks within the given time-frame.
 
  Task-1 : Prediction using Supervised ML
+ 
+ 
  Task-2 : Prediction using Unsupervised ML
